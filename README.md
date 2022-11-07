@@ -1,8 +1,11 @@
 ## 👋 Hello, I'm Ofek!
-I'm a 16 years old student from Israel learning to code.
+I'm a 16 years old student from Israel
+Currently learning:
+  Network programming
+  Android developement
+  Cyber security
 
 ---
 
 ### 📩 How to reach me
-[LinkedIn](https://www.linkedin.com/in/ofek-sror-647062243)
 Email me - OfekSror@gmail.com

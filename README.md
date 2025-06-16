@@ -1,7 +1,3 @@
-# 👋 About Me
-Hey! I'm Ofek. I like building cool things.<br>
-I'm an 18 years old self-taught software developer from Israel. <br>
-
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,ts,js,react,nextjs,cpp,c,firebase,mongodb,sqlite,java,androidstudio,flask,tailwind,html,css)](https://personal-website-git-main-ofeksror.vercel.app/)
 
@@ -21,11 +17,3 @@ A web application that enables users to engage in an interactive voice conversat
 
 - **Trading Platform** (*Python, Flask, SQLite, IEX Cloud API*) <br>
 Developed the back-end of a stock trading platform that includes portfolio management, buying and selling stocks with real-time price quotations using IEX Cloud API, and calculating profits.
-
-
-## 🌐 Socials:
-[YouTube](https://www.youtube.com/@ofeksror2524) • [Instagram](https://instagram.com/ofeksror) • [LinkedIn](https://linkedin.com/in/ofek-sror)
-
-## 📞 Contact Me
-
-ofeksror@gmail.com
